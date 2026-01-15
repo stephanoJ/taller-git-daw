@@ -1,1 +1,2 @@
-# taller-git-daw
+# Autor
+# Stephano Sequeiros Huillca
