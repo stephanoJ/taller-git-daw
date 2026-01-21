@@ -1,4 +1,4 @@
 # Autor
 # Stephano Sequeiros Huillca
 ## Descripción del proyecto
-Editar README.md en la rama main.
+Proyecto de prácticas de Git para DAW y Editar README.md en la rama main.
